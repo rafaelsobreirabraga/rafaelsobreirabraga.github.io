@@ -1,6 +1,0 @@
-# Introdução ao Python
-
-
-
-
-
